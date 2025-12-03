@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on bytedance<br>
-- 🌱 learning kubernetes, databases, AI-Infra(i.e., mcp)<br>
+- 🌱 learning kubernetes, databases, AI-Infra<br>
 - 💬 Ask me about k8s
 
 # 📊 GitHub Stats:
