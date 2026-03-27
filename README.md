@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on bytedance<br>
+- 🔭 I’m currently working in bytedance<br>
 - 🌱 learning kubernetes, databases, AI-Infra<br>
 - 💬 Ask me about k8s
 
